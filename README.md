@@ -9,4 +9,4 @@
 # 테스트입니다
 
 
-contributor : @josh
+contributor : @josh, @harry
